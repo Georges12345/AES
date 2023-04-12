@@ -9,5 +9,5 @@ Run the code (python3 AES.py)
 
 USAGE:
 
-In the encyption part, the user will have to enter only a text, and the program will generate a 128-bit key and the cypher text
-The user must enter the same generated key in the decryption part along with the cyphertext in order to retrieve the message
+In the encyption part, the user will have to enter only a text, and the program will generate a 128-bit key and the cipher text
+The user must enter the same generated key in the decryption part along with the ciphertext in order to retrieve the message
