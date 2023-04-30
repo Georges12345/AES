@@ -64,7 +64,7 @@ AES_print()
 
 
 while True:
-    print(Fore.YELLOW,"Enter 0 for encryption, 1 for decryption, or q to quit:\n",Fore.RESET)
+    print(Fore.YELLOW,"0. Encryption\n 1. Decryption\n\n q. Quit\n",Fore.RESET)
     choice = input("[+]")
     if choice == 'q':
         break
